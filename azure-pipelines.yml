@@ -1,15 +1,15 @@
-name: exemplo_basico
-description: Exemplo Flutter Basico
+#name: exemplo_basico
+#description: Exemplo Flutter Basico
 
-dependencies:
-  flutter:
-    sdk: flutter
+#dependencies:
+#  flutter:
+#    sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.2
+#  cupertino_icons: ^0.1.2
 
-dev_dependencies:
+#dev_dependencies:
 - task: FlutterBuild@0
   inputs:
     target: 'apk'
